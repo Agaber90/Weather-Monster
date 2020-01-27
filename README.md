@@ -20,7 +20,7 @@ This a Golang project is going to be used by different institutions to monitor w
 <p>the architecture that is being used is a clean architecture with dependency injection.</p>
   <p>This project has 4 Domain layer as stated below
     
-      city
+    city
 ├── delivery
 │   └── http
 │       ├── city_handler.go
