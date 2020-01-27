@@ -1,0 +1,16 @@
+{
+    "debug": true,
+    "server": {
+        "address": ":3000"
+    },
+    "context": {
+        "timeout": 2
+    },
+    "database": {
+        "host": "127.0.0.1",
+        "port": "3306",
+        "user": "root",
+        "pass": "Xyz78901",
+        "name": "weather"
+    }
+}
