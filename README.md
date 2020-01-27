@@ -38,7 +38,7 @@ This a Golang project is going to be used by different institutions to monitor w
 └── usecase.go // Usecase Interface.
     
 </p>
-#Rule of Clean Architecture by Uncle Bob
+# Rule of Clean Architecture by Uncle Bob
 <ol>
  <li> Independent of Frameworks. The architecture does not depend on the existence of some library of feature laden software. This allows you to use such frameworks as tools, rather than having to cram your system into their limited constraints.</li>
 <li>Testable. The business rules can be tested without the UI, Database, Web Server, or any other external element.</li>
@@ -47,7 +47,7 @@ Independent of Database. You can swap out Oracle or SQL Server, for Mongo, BigTa
 <li>Independent of any external agency. In fact your business rules simply don’t know anything at all about the outside world.</li>
 </ol>
 
-##How To Run This Project
+## How To Run This Project
 
 Since the project already use Go Module, I recommend to put the source code in any folder but GOPATH. and make sure to run the mysql scripts
 
