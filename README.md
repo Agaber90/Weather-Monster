@@ -18,8 +18,8 @@ This a Golang project is going to be used by different institutions to monitor w
 <br />
 
 <p>the architecture that is being used is a clean architecture with dependency injection.</p>
-  <p>This project has 4 Domain layer as stated below
-    
+<p>This project has 4 Domain layer as stated below</p>
+<br/>
     city
 ├── delivery
 │   └── http
