@@ -22,19 +22,19 @@ This a Golang project is going to be used by different institutions to monitor w
 <br/>
     city
 ├── delivery
-│   └── http
-│       ├── city_handler.go
-│       └── city_test.go
+│           └── http
+│           ├── city_handler.go
+│           └── city_test.go
 ├── mocks
-│   ├── cityRepository.go
-│   └── cityUsecase.go
+│           ├── cityRepository.go
+│           └── cityUsecase.go
 ├── repository //Encapsulated Implementation of Repository Interface
-│   ├── sql_city.go
-│   └── sql_city_test.go
+│           ├── sql_city.go
+│           └── sql_city_test.go
 ├── repository.go // Repository Interface
 ├── usecase //Encapsulated Implementation of Usecase Interface
-│   ├── city_usecase_test.go
-│   └── city_usecase.go
+│           ├── city_usecase_test.go
+│           └── city_usecase.go
 └── usecase.go // Usecase Interface.
     
 </p>
